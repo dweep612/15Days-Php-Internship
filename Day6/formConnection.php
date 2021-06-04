@@ -48,3 +48,9 @@ if($_POST) {
     </form>
 </body>
 </html>
+
+<?php
+
+echo "<a href='../day7/table.php'>Display Data</a>";
+
+?>
