@@ -35,6 +35,6 @@ while ($row = mysqli_fetch_array($query)) {
 echo "</table>";
 
 echo "<br/>";
-echo "<a href='../day6/formconnection.php'>Insert Data</a>";
+echo "<a href='insertData.php'>Insert Data</a>";
 
 ?>
