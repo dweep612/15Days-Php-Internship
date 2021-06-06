@@ -51,6 +51,6 @@ if($_POST) {
 
 <?php
 
-echo "<a href='../day7/table.php'>Display Data</a>";
+echo "<a href='../day7/formconnection.php'>Display Data</a>";
 
 ?>

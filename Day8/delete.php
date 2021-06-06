@@ -16,7 +16,7 @@ $query = mysqli_query(
 ) or die("Error: ".mysqli_error($connection));
 
 if($query) {
-    echo "<script>alert('Data Deleted');window.location='table.php';</script>";
+    echo "<script>alert('Data Deleted!');window.location='table.php';</script>";
 }
 
 ?>

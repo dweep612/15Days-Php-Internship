@@ -90,3 +90,9 @@ if($_POST) {
     </form>
 </body>
 </html>
+
+<?php
+
+echo "<a href='../../day7/withouttheme/studenttable.php'>Display Data</a>";
+
+?>
